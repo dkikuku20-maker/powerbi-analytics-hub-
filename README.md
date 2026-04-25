@@ -81,8 +81,8 @@ This project is licensed under the **MIT License**, promoting open collaboration
 
 ## 📬 Connect With Me
 
-* 💼 LinkedIn: *(your LinkedIn link)*
-* 💻 GitHub: *(your GitHub link)*
+* 💼 LinkedIn:https://www.linkedin.com/in/dessailly-k-3504562a6/
+
 
 ---
 
