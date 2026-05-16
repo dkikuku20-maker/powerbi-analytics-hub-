@@ -1,0 +1,137 @@
+# 👥 HR Workforce Analytics Dashboard
+
+An interactive multi-page Power BI dashboard designed to analyze workforce distribution, employee attrition, job satisfaction, salary trends, and workforce risk factors using HR analytics data. 
+
+---
+
+# 📊 Project Overview
+
+This project focuses on transforming HR data into actionable workforce insights that support employee retention, operational planning, and workforce optimization.
+
+The dashboard helps organizations:
+
+* Monitor employee attrition trends
+* Identify high-risk workforce segments
+* Analyze salary and overtime impact
+* Evaluate department and job role performance
+* Improve retention strategies using data-driven insights
+
+---
+
+# 🚀 Dashboard Pages
+
+## 📌 Page 1 — Workforce Overview
+
+Provides a high-level summary of workforce composition and attrition performance.
+
+### Dashboard Includes
+
+* Total Employees
+* Attrition Count
+* Attrition Rate
+* Average Salary
+* Average Age
+* Gender Distribution
+* Attrition by Department
+* Attrition by Age Group
+* Job Role Distribution
+
+### Key Insights
+
+* Overall attrition rate stands at approximately **16%**
+* Employees aged **26–35** experienced the highest attrition
+* Research & Development showed the highest employee exits
+* Sales Executive and Laboratory Technician roles recorded elevated turnover
+* Workforce gender distribution remained relatively balanced
+
+---
+
+## 📌 Page 2 — Employee Satisfaction & Retention Analysis
+
+Focused on understanding retention drivers and employee engagement.
+
+### Analysis Includes
+
+* Attrition by Salary Range
+* Attrition by Overtime
+* Attrition by Work-Life Balance
+* Attrition by Job Satisfaction
+* Attrition by Years at Company
+
+### Key Insights
+
+* Employees earning below **$5K/month** showed the highest attrition risk
+* Overtime strongly correlated with employee turnover
+* Lower job satisfaction levels increased attrition probability
+* Employees with fewer years at the company experienced higher turnover
+* Poor work-life balance contributed significantly to employee exits
+
+---
+
+## 📌 Page 3 — High-Risk Workforce Analysis
+
+Focused on identifying departments and roles with elevated attrition exposure.
+
+### Analysis Includes
+
+* Attrition Risk by Salary & Overtime
+* High-Risk Employee Profiles
+* Attrition by Job Role
+* Attrition by Department & Job Satisfaction
+
+### Key Insights
+
+* Laboratory Technicians and Sales Executives were among the highest-risk roles
+* High overtime combined with low salary increased attrition significantly
+* Research & Development and Sales departments experienced the highest workforce instability
+* Employees with low satisfaction levels were more likely to leave
+
+---
+
+# 🛠️ Tools & Technologies
+
+* Power BI
+* DAX
+* Data Modeling
+* HR Analytics
+* Business Intelligence Reporting
+* Workforce Visualization
+
+---
+
+# 📈 Skills Demonstrated
+
+* Workforce Analytics
+* KPI Development
+* Employee Retention Analysis
+* Attrition Risk Modeling
+* Data Storytelling
+* Interactive Dashboard Design
+* Executive Reporting
+
+---
+
+# 🎯 Business Value
+
+This dashboard enables HR teams and business leaders to:
+
+* Detect workforce instability early
+* Identify high-risk employee groups
+* Improve retention strategies
+* Optimize workforce planning
+* Support data-driven HR decision-making
+
+---
+
+# 📂 Files Included
+
+* Power BI Dashboard (.pbix)
+* HR Dataset
+* Dashboard Screenshots
+* Exported Dashboard PDF Report
+
+---
+
+# 🔗 GitHub Repository
+
+[Power BI Analytics Hub](https://github.com/dkikuku20-maker?utm_source=chatgpt.com)
